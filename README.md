@@ -36,9 +36,9 @@ host：
 
 
 ### 路由接口：MPRouter ###
+```objc
 /**
 配置 key 及对应的控制器的 String名称
-```objc
 @param configFilePath 配置文件路径,可以是 沙盒内的文件，实现服务器实时更新!
 @param error 错误
 */
